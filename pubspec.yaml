@@ -1,7 +1,7 @@
 name: flex_grid_layout
 description: "Responsive grid that automatically adjusts its items based on available width."
 version: 1.0.0
-homepage:
+homepage: https://github.com/JhonaCodes/flex_grid_layout
 
 environment:
   sdk: ^3.6.2
