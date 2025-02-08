@@ -5,6 +5,9 @@ A responsive grid layout widget for Flutter that automatically arranges items ba
 [![pub package](https://img.shields.io/pub/v/flex_grid_layout.svg)](https://pub.dev/packages/flex_grid_layout)
 [![style: flutter lints](https://img.shields.io/badge/style-flutter__lints-blue)](https://pub.dev/packages/flutter_lints)
 
+![)](https://github.com/user-attachments/assets/f7570b67-4599-480a-8d7d-b9fa132e02c0)
+
+
 ## Features
 
 - 🔄 Responsive grid that adapts to screen size
@@ -13,6 +16,8 @@ A responsive grid layout widget for Flutter that automatically arranges items ba
 - 🎯 Control over maximum items per row
 - 🌟 Flexible spacing between items and rows
 - 📜 Built-in scrolling support
+
+![flex_grid_layout](https://github.com/user-attachments/assets/c7dfd377-4c55-45cd-bdcd-fa665f4f9d12)
 
 ## Installation
 
