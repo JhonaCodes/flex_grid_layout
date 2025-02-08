@@ -1,6 +1,6 @@
 name: flex_grid_layout
 description: "Responsive grid that automatically adjusts its items based on available width."
-version: 0.0.1
+version: 1.0.0
 homepage:
 
 environment:
